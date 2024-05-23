@@ -1,0 +1,49 @@
+.cherry-blossom-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff5f8;
+    border: 2px solid #ffb7c5;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .cherry-blossom-form label {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+    color: #ff6392;
+    margin-bottom: 10px;
+  }
+  
+  .cherry-blossom-form select {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ffb7c5;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .cherry-blossom-form button {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    background-color: #ff6392;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cherry-blossom-form button:hover {
+    background-color: #e55382;
+  }
+  
